@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+}
+
+.rodape{
+	margin-top: 535px;
+	background: rgba(0,0,0,0.7);
+	height: 50px;
+	width: 100%;
+	padding-top: 10px;
+
+}
+
+
+
+
+h4{
+	color: white;
+	text-align: center;
+}
